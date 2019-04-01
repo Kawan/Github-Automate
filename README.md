@@ -16,7 +16,7 @@ https://chromedriver.storage.googleapis.com/index.html?path=73.0.3683.68/
 Copy to Chrome installnation
 
 ```
-DONE
+Example: c:\Program Files (x86)\Google\Chrome\chromedriver.exe
 ```
 
 ## License
